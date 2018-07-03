@@ -1,2 +1,2 @@
 # Filmino-Bot
-A Telegram bot for searching movies info
+* A Telegram bot for searching movies info
